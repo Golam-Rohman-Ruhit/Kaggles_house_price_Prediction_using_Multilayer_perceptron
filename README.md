@@ -74,6 +74,10 @@ The model reached nearly an **R² of 0.89** during testing, meaning it accounts 
 
 
 ### **3.3 Distribution Comparison**
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/e47321f4-07c3-4a83-ad03-a592b3ebc5a9" />
+
+
 The blue training set matches closely with red test results in their peak patterns, suggesting the system captured core trends effectively rather than just memorizing cases.
 
 
