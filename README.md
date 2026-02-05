@@ -58,7 +58,7 @@ I built a **four-layer MLP** using a "wide and deep" setup:
 
 ### **3.1 Loss Curves**
 
-<img width="692" height="346" alt="Image" src="https://github.com/user-attachments/assets/d9eaa738-717e-4ea2-a05f-331bca53058b" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/941a5a82-8dc2-4dee-bc3a-8e0000a09adf" />
 
 
 The loss trend quickly levels off. Eventually, the validation MSE reaches **0.018**—a notably low value for this dataset.
