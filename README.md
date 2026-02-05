@@ -66,6 +66,9 @@ The loss trend quickly levels off. Eventually, the validation MSE reaches **0.01
 
 
 ### **3.2 Prediction Accuracy**
+
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/af67cb69-ed9e-40d1-a7bc-de95161075fa" />
+
 The model reached nearly an **R² of 0.89** during testing, meaning it accounts for about 89% of price variations.
 
 
