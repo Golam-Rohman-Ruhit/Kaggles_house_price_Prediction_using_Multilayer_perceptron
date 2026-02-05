@@ -103,8 +103,7 @@ The tight match in the loss curve confirms the system handles underfitting and o
 
 ---
 
-## 📁 Project Resources
-* **Document:** [Download Report](./House_Price_Prediction_Report.docx)
-* **Dataset:** [Kaggle House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+## 📁 Project full report
+* **whole project Document:**[neural network ex_2.docx](https://github.com/user-attachments/files/25100207/neural.network.ex_2.docx)
 
 <p align="center">Made with ❤️ for Data Science</p>
